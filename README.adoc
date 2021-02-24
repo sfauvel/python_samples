@@ -1,0 +1,7 @@
+= Python samples
+
+Some python to show how to use some functions.
+
+You can use `run_test.sh` to launch a docker that run tests.
+
+Otherwise, you have to install `pytest`.
